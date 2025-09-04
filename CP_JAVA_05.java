@@ -26,22 +26,22 @@ public class CP_JAVA_05 {
 
     public static void main(String[] args) {
 
-        //int 2ndPlace = 2;//
+        //int 2ndPlace = 2;
         int SecoundPlace = 2;
         
-        //int first name = 10;//
+        //int first name = 10;
         int FirstName = 10;
         
-        //int price# = 99;//
+        //int price# = 99;
         int price =99;
         
-		//int user-name = 25;//
+		//int user-name = 25;
 		int username = 25;
 
-		//int class = 1;//
+		//int class = 1;
 		int Class = 1;
 		
-		//int double = 3;//
+		//int double = 3;
 		int Double =3;
 
         int Score = 10;
@@ -50,7 +50,7 @@ public class CP_JAVA_05 {
 		System.out.println("This program is executed after all errors are rectified.");
 
 
-        //1start();//
+        //1start();
         start1();
     }
 }
