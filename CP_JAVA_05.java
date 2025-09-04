@@ -11,8 +11,7 @@
  
 // Intentionally incorrect program to demonstrate invalid Java identifiers.
 
-/*class switch{
-	String SwitchStatus = "On";*/
+//class switch{
 class Switch{
 	String SwitchStatus = "On";
 	
