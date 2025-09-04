@@ -3,8 +3,8 @@
   Program Title : Demonstrating Identifier Rules in Java
   File Name: "IdentifierRules.java"
   
-  Programmer : Sathish Sarma
-  Contact Details : sathish.sarma@newinti.edu.my
+  Programmer : MYO KHANT KYAW
+  Contact Details : j25043739@student.newinti.edu.my
   Date : 04 September 2025
   
  **********************************************************************/
