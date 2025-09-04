@@ -13,6 +13,8 @@
 
 /*class switch{
 	String SwitchStatus = "On";*/
+class Switch{
+	String SwitchStatus = "On";
 	
 
 
