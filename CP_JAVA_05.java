@@ -12,9 +12,9 @@
 // Intentionally incorrect program to demonstrate invalid Java identifiers.
 
 //class switch{
-class Switch{
+class Switch{	
 	String SwitchStatus = "On";
-	
+}	
 
 
 public class CP_JAVA_05 {
@@ -53,5 +53,4 @@ public class CP_JAVA_05 {
         //1start();//
         start1();
     }
-
 }
